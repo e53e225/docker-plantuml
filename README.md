@@ -1,5 +1,8 @@
 # docker-plantuml
 
+![build status](https://img.shields.io/docker/build/e53e225/plantuml.svg)
+![automated build](https://img.shields.io/docker/automated/e53e225/plantuml.svg)
+
 ## Usage
 
 ```sh
